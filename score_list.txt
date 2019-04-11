@@ -1,0 +1,1 @@
+[{"attempts": 4, "date": "2019-04-11 15:10:18.881878", "player_name": "edvis", "secret_number": 5, "wrong_guesses": [21, 18, 2]}, {"attempts": 11, "date": "2019-04-11 15:12:07.717770", "player_name": "kentas", "secret_number": 2, "wrong_guesses": [1, 25, 21, 19, 14, 9, 7, 5, 4, 3]}]
